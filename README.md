@@ -14,5 +14,5 @@
    [[Control Indice de Accidentes e Incidentes](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
    
    ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
-   [[Presentaciones](https://drive.google.com/drive/folders/1WY0U6lsb_5F6DuPEydsrH_PldWW4Q5Y2?hl=es-419]
+   [Presentaciones][https://drive.google.com/drive/folders/1WY0U6lsb_5F6DuPEydsrH_PldWW4Q5Y2?hl=es-419]
    
