@@ -8,7 +8,7 @@
    * Se incluye una planilla Indice de Frecuencia - Enero 2007 // No.Trabajadores Accidentados*1.000.000/HH Trabajadas
          
    ### Se adjunta el Manual de Protocolo
-   [[Manual de Protocolo de Emergencia y Evacuación]][https://drive.google.com/drive/folders/1WY0U6lsb_5F6DuPEydsrH_PldWW4Q5Y2?hl=es-419]
+   [[Manual de Protocolo de Emergencia y Evacuación](https://drive.google.com/drive/folders/1WY0U6lsb_5F6DuPEydsrH_PldWW4Q5Y2?hl=es-419)]
    
    ### Se adjunta una muestra de Control Indice de Accidentes e Incidentes
    [[Control Indice de Accidentes e Incidentes](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
